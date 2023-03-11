@@ -4,9 +4,9 @@
 
 <p>
 
-<img alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="40px" width="40px" />
-<img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" />
-<img alt="CatSharp" src="https://raw.githubusercontent.com/CatTeam-net/logos/main/catsharp.svg" height="40px" width="40px" />
+<img alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="100px" width="100px" />
+<img alt="JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="100px" width="100px" />
+<img alt="CatSharp" src="https://github.com/CatTeam-net/logos/raw/main/catsharp.png" height="100px" width="100px" />
 
 </p>
 
